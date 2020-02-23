@@ -9,6 +9,11 @@ https://shop.pimoroni.com/products/keybow?variant=21246333190227
 
 Cycle through layers by tapping the bottom right key (configurable).
 
+License
+-------
+
+Released under the MIT License. Copyright 2020 Olle Wreede.
+
 Installation
 ------------
 
